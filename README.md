@@ -1,21 +1,22 @@
+![White, yellow, and blue repeating stripe border](assets/border.png)
+
 ## I'm currently working on...
 
 Updating everything for the new year of 2026.
 
-## Current WIP projects
+### Current projects
 
-- RSS Aggregator
-- (PAUSED) Small unnamed Halloween game
-- (PAUSED) Mini game project from 2023
+- [RSS Time](https://github.com/jennyton88/rss-time)
 
-## Ongoing projects
-- (AS NEEDED) [My website](https://jennyton88.github.io/)
-- (AS NEEDED) [Devlogs Maker](https://github.com/jennyton88/devlogs_maker)
+### Ongoing projects
+
+- [My website](https://jennyton88.github.io/)
+- [Devlogs Maker](https://github.com/jennyton88/devlogs_maker)
 
 ## Find my stuff at...
 
-- [jennyton88.github.io](https://jennyton88.github.io/) - My personal website
-- [jennydevs.itch.io](https://jennydevs.itch.io/) - Play my games on Itch
+- [jennyton88.github.io](https://jennyton88.github.io/) - Personal website
+- [jennydevs.itch.io](https://jennydevs.itch.io/) - My games
 - [@jennydevs.bsky.social](https://bsky.app/profile/jennydevs.bsky.social) - Bluesky
 
 ![White, yellow, and blue repeating stripe border](assets/border.png)
