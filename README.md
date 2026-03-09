@@ -1,6 +1,6 @@
 ![White, yellow, and blue repeating stripe border](assets/border.png)
 
-## I'm currently working on...
+## Hi! I'm currently working on...
 
 Updating everything for the new year of 2026.
 
@@ -10,7 +10,7 @@ Updating everything for the new year of 2026.
 
 ### Ongoing projects
 
-- [My website](https://jennyton88.github.io/)
+- [My personal website](https://jennyton88.github.io/)
 - [Devlogs Maker](https://github.com/jennyton88/devlogs_maker)
 
 ## Find my stuff at...
