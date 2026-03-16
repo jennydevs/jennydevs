@@ -6,17 +6,17 @@ Updating everything for the new year of 2026.
 
 ### Current projects
 
-- [RSS Time](https://github.com/jennydevs/rss-time)
+- [rss time](https://github.com/jennydevs/rss-time)
 
 ### Ongoing projects
 
-- [My personal website](https://jennydevs.github.io/)
-- [Devlogs Maker](https://github.com/jennydevs/devlogs_maker)
+- [my personal website](https://jennydevs.github.io/)
+- [devlogs maker](https://github.com/jennydevs/devlogs_maker)
 
-## Find my stuff at...
+## Find my stuff here!
 
-- [jennydevs.github.io](https://jennydevs.github.io/) - Personal website
-- [jennydevs.itch.io](https://jennydevs.itch.io/) - My games
-- [@jennydevs.bsky.social](https://bsky.app/profile/jennydevs.bsky.social) - Bluesky
+- [jennydevs.github.io](https://jennydevs.github.io/)
+- [jennydevs.itch.io](https://jennydevs.itch.io/)
+- [@jennydevs.bsky.social](https://bsky.app/profile/jennydevs.bsky.social)
 
 ![White, yellow, and blue pattern striped border](assets/border_rounded.png)
