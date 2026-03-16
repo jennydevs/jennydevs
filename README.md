@@ -1,4 +1,4 @@
-![White, yellow, and blue repeating stripe border](assets/border.png)
+![White, yellow, and blue pattern striped border](assets/border_rounded.png)
 
 ## Hi! I'm currently working on...
 
@@ -19,4 +19,4 @@ Updating everything for the new year of 2026.
 - [jennydevs.itch.io](https://jennydevs.itch.io/) - My games
 - [@jennydevs.bsky.social](https://bsky.app/profile/jennydevs.bsky.social) - Bluesky
 
-![White, yellow, and blue repeating stripe border](assets/border.png)
+![White, yellow, and blue pattern striped border](assets/border_rounded.png)
