@@ -6,7 +6,7 @@ Updating everything for the new year of 2026.
 
 ### Current projects
 
-- [RSS Time](https://github.com/jennyton88/rss-time)
+- [RSS Time](https://github.com/jennydevs/rss-time)
 
 ### Ongoing projects
 
