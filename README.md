@@ -11,7 +11,7 @@ Updating everything for the new year of 2026.
 ### Ongoing projects
 
 - [my personal website](https://jennydevs.github.io/)
-- [devlogs maker](https://github.com/jennydevs/devlogs_maker)
+- [devlogs maker](https://github.com/jennydevs/devlogs-maker)
 
 ## Find my stuff here!
 
